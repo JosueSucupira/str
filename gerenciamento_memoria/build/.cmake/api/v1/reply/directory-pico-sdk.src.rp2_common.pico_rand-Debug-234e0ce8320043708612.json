@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/rp2_common/pico_rand",
+		"source" : "/home/josue/Documentos/Faculdade/5-Semestre/STR/freertos/pico/pico-sdk/src/rp2_common/pico_rand"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/common",
+		"source" : "/home/josue/Documentos/Faculdade/5-Semestre/STR/freertos/pico/pico-sdk/src/common"
+	}
+}
