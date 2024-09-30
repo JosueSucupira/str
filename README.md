@@ -1,8 +1,8 @@
-# Projeto Sistemas de Tempo Real - RP2040 com FreeRTOS
+# PSistemas de Tempo Real - RP2040 com FreeRTOS
 
 Este repositório contém os projetos desenvolvidos na disciplina de **Sistemas de Tempo Real**, utilizando a placa **Raspberry Pi Pico (RP2040)** e o **FreeRTOS**. O objetivo dos projetos foi implementar sistemas de controle em tempo real, explorando multitarefa, gerenciamento de recursos e sincronização.
 
-## Descrição do Projeto
+## Descrição
 
 Durante a disciplina, foram implementados diversos sistemas e algoritmos para o controle de tarefas em tempo real utilizando o sistema operacional **FreeRTOS**. O microcontrolador **RP2040** foi utilizado como base para a execução dos projetos, aproveitando suas duas CPUs e diversos periféricos.
 
