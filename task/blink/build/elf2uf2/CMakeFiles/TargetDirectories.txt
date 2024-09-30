@@ -1,0 +1,5 @@
+/home/josue/Desktop/Faculdade/5-Semestre/STR/labs/pratica-01/blink/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/home/josue/Desktop/Faculdade/5-Semestre/STR/labs/pratica-01/blink/build/elf2uf2/CMakeFiles/edit_cache.dir
+/home/josue/Desktop/Faculdade/5-Semestre/STR/labs/pratica-01/blink/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/home/josue/Desktop/Faculdade/5-Semestre/STR/labs/pratica-01/blink/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+/home/josue/Desktop/Faculdade/5-Semestre/STR/labs/pratica-01/blink/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
