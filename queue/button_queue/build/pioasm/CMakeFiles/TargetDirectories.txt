@@ -1,0 +1,3 @@
+/home/josue/Documentos/Faculdade/5-Semestre/STR/labs/pratica-04/button_queue/build/pioasm/CMakeFiles/pioasm.dir
+/home/josue/Documentos/Faculdade/5-Semestre/STR/labs/pratica-04/button_queue/build/pioasm/CMakeFiles/edit_cache.dir
+/home/josue/Documentos/Faculdade/5-Semestre/STR/labs/pratica-04/button_queue/build/pioasm/CMakeFiles/rebuild_cache.dir
